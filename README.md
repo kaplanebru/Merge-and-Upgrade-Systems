@@ -2,6 +2,5 @@
 
 - Some of the scripts from my game called Demolish Idle
 
-
-  ![ Alt text](https://media.giphy.com/media/AQfmkV0nuayMLlEbxz/giphy.mp4](https://media.giphy.com/media/AQfmkV0nuayMLlEbxz/giphy.gif)
-
+ ![ Alt text]([name-of-gif-file. gif](https://media.giphy.com/media/AQfmkV0nuayMLlEbxz/giphy.gif))
+ 
